@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan6_kambingstatic;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -7,8 +8,6 @@
  *                        static
  *
  */
-package pboif2_10119065_latihan6_kambingstatic;
-
 public class Mamalia{
      public static int jumlahKambing;
 }
